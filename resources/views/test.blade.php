@@ -1,0 +1,1 @@
+<h1>This is test blade file</h1>
